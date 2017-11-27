@@ -36,3 +36,4 @@ function loadDirections(string) {
 
 // run setUpPage() function when page finishes loading
 window.addEventListener("load", setUpPage, false);
+
